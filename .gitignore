@@ -50,5 +50,11 @@ node_modules/
 # Public folder
 public
 
+info/
+
 # vscode
 .vscode
+
+.eslintrc.json
+.csscomb.json
+.browserslistrc
